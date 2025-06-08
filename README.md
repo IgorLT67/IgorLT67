@@ -3,6 +3,7 @@
 🎯 **Experienced Operations Executive** with a strong background in:
 - Production
 - Real Estate & Construction
+- Facility management, maintenance and repair
 - Spatial Planning
 - Project Management
 - Development of Social Care Services
