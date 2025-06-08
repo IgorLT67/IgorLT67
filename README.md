@@ -67,6 +67,4 @@ Below are some of the analytical models and dashboards I’ve developed — comb
 
 ---
 
-> _“I believe in blending operational rigor with data intelligence to unlock business growth.”_  
-> — Igor Makarov
 
