@@ -32,8 +32,8 @@ My work combines real-world business strategy with data-driven tools to uncover 
 
 ## 🚀 Current Focus
 
-- Real Estateprojects, analytics and process optimization  
-- Social Care service development projects  
+- Real Estate projects, analytics and process optimization  
+- Social Care service development project
 - Freelancing work on operational and data projects  
 
 ---
