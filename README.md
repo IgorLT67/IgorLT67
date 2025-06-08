@@ -39,16 +39,42 @@ My work combines real-world business strategy with data-driven tools to uncover 
 ---
 
 ## 🌱 Learning Journey  
-I’m continuously sharpening my skill set with:
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+I'm currently learning:
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Project](https://img.shields.io/badge/Microsoft%20Project-0078D7?style=for-the-badge&logo=microsoft&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![AI Automation](https://img.shields.io/badge/AI%20Automation-7A1FA2?style=for-the-badge&logo=openai&logoColor=white)
 ![Strategic Planning](https://img.shields.io/badge/Strategic%20Planning-5C2D91?style=for-the-badge)
+
+## 💼 Technical Skills
+
+I’m continuously sharpening my skill set with:
+
+### 📊 Data & BI Tools  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Zoho Analytics](https://img.shields.io/badge/Zoho%20Analytics-FF4F1F?style=for-the-badge&logo=zoho&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+
+### 💻 Programming & Data Science  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Aiven](https://img.shields.io/badge/Aiven-DC382D?style=for-the-badge&logo=aiven&logoColor=white)
+
+### 🧠 AI & Automation  
+![Make.com](https://img.shields.io/badge/Make.com-592EFF?style=for-the-badge&logo=make&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
+
+### 📅 Project & Task Management  
+![Microsoft Project](https://img.shields.io/badge/Microsoft%20Project-0078D7?style=for-the-badge&logo=microsoft&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Zoho CRM](https://img.shields.io/badge/Zoho%20CRM-ED1C24?style=for-the-badge&logo=zoho&logoColor=white)
+![Zoho Sprints](https://img.shields.io/badge/Zoho%20Sprints-FC3F1D?style=for-the-badge&logo=zoho&logoColor=white)
 
 
 ---
