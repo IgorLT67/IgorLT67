@@ -87,7 +87,7 @@ Below are some of the analytical models and dashboards I’ve developed — comb
 |--------|-------------|
 | [🏢 AdventureWorks Sales Analysis](https://github.com/IgorLT67/igor-portfolio/tree/main/adventureworks-model) | Sales performance insights, KPIs, and revenue breakdowns using Microsoft’s public dataset. |
 | [✈️ Airport Delays Analysis](https://github.com/IgorLT67/igor-portfolio/tree/main/Airports-and-Airlines-Flight-Delays) | Delay cause analysis with seasonal patterns and predictive models. |
-| [🍬 Candy Sales Tracker](https://github.com/IgorLT67/igor-portfolio/tree/main/candy-sales-model) | Regional product performance with forecasting, market segmentation, and slicer-driven filtering. |
+| [🍬 Candy Sales Tracker](https://github.com/IgorLT67/igor-portfolio/tree/main/candy-sales-model) | Regional product performance with reports, market segmentation, and slicer-driven filtering. |
 | [👥 Social Care Business Model](https://github.com/IgorLT67/igor-portfolio/tree/main/social-care-model) | End-to-end business development dashboard based on a real social services scenario. In progress — being expanded into a more complex, strategic tool. |
 ---
 
