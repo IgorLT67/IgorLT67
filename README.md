@@ -85,6 +85,7 @@ Below are some of the analytical models and dashboards I’ve developed — comb
 
 | Project | Description |
 |--------|-------------|
+| [📊 Vilniaus m. SPC veiklos analizė su Power BI](https://github.com/IgorLT67/igor-portfolio/tree/main/Vilnius-Social-Services-PowerBI) | Vilniaus m. socialinių paslaugų centro paslaugų ataskaitos analizė su Power BI. |
 | [🏢 AdventureWorks Sales Analysis](https://github.com/IgorLT67/igor-portfolio/tree/main/adventureworks-model) | Sales performance insights, KPIs, and revenue breakdowns using Microsoft’s public dataset. |
 | [✈️ Airport Delays Analysis](https://github.com/IgorLT67/igor-portfolio/tree/main/Airports-and-Airlines-Flight-Delays) | Delay and cancel cause analysis with patterns and measurements. |
 | [🍬 Candy Sales Tracker](https://github.com/IgorLT67/igor-portfolio/tree/main/candy-sales-model) | Regional sale performance with reports, market segmentation, and slicer-driven filtering. |
