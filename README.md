@@ -85,8 +85,10 @@ Below are some of the analytical models and dashboards I’ve developed — comb
 
 | Project | Description |
 |--------|-------------|
+| [🏙️ Automatinis duomenų gavimas iš aruodas.lt](https://github.com/IgorLT67/igor-portfolio/tree/main/aruodas) | Vilniaus m. butų rinkos dalyvių elgesio analizė (Python). |
 | [🏙️ Šalies miestų butų kainų analizė su Power BI & Python](https://github.com/IgorLT67/igor-portfolio/tree/main/But%C5%B3%20kainos%20makroekonominiame%20kontekste) | Butų kainų analizė su Power BI & Python. |
 | [📊 Vilniaus m. SPC veiklos analizė su Power BI](https://github.com/IgorLT67/igor-portfolio/tree/main/Vilnius-Social-Services-PowerBI) | Vilniaus m. socialinių paslaugų centro paslaugų ataskaitos analizė su Power BI. |
+| [🏙️ NT projekto sąnaudų ir pajamų skaičiuoklė su palyginimu](https://investnt.vercel.app/) | Skaičiuoja kainą, išskiria PVM, nuomos modelis, IRR, NPV (HTML). |
 | [🏢 AdventureWorks Sales Analysis](https://github.com/IgorLT67/igor-portfolio/tree/main/adventureworks-model) | Sales performance insights, KPIs, and revenue breakdowns using Microsoft’s public dataset. |
 | [✈️ Airport Delays Analysis](https://github.com/IgorLT67/igor-portfolio/tree/main/Airports-and-Airlines-Flight-Delays) | Delay and cancel cause analysis with patterns and measurements. |
 | [🍬 Candy Sales Tracker](https://github.com/IgorLT67/igor-portfolio/tree/main/candy-sales-model) | Regional sale performance with reports, market segmentation, and slicer-driven filtering. |
