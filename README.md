@@ -1,105 +1,40 @@
-# 👋 Hi, I'm Igor Makarov
+# Igor Makarov
 
-🎯 **Experienced Operations Executive** with a strong background in:
-- Production
-- Real Estate & Construction
-- Facility maintenance and repair
-- Tenancy management
-- Spatial Planning
-- Project Management
-- Development of Social Care Services
+Data and business analyst. I work on business data analysis, process change and data-driven development, with domain experience in Baltic real estate, operations and social-care service development.
 
----
+## About
 
-## 🔧 My Core Strengths
+I turn operational and market data into metrics, models and decisions. Selected work covers housing-market analysis in Lithuania, public social-services reporting, and practical tools for project appraisal. Feeze Lab is one of the projects I am building alongside this analytical work.
 
-I specialize in creating, organizing, and managing processes — across both **technical** and **legal** dimensions.
+## Selected work — Real estate & housing markets
 
-- Strong strategic mindset  
-- Operational excellence in complex environments  
-- Analytical and data-driven approach to decision-making  
-- Adept at delivering results in dynamic sectors  
+**[Apartment prices in a macroeconomic context (Ober-Haus)](https://github.com/IgorLT67/igor-portfolio/tree/main/But%C5%B3%20kainos%20makroekonominiame%20kontekste)**  
+Statistical analysis of Ober-Haus monthly apartment €/m² reports for Lithuanian cities, linking price dynamics to macroeconomic indicators (Python, Power BI, Excel).
 
----
+**[Aruodas.lt listing dynamics](https://github.com/IgorLT67/igor-portfolio/tree/main/aruodas)**  
+Original study of Vilnius apartment listings, focused on sales-process dynamics — timing, popularity and price changes — rather than price levels alone (Python).
 
-## 📊 Passion for Data & Problem Solving
+**[NT project calculator](https://investnt.vercel.app)**  
+A browser-based calculator for comparing two real-estate project scenarios side by side, including VAT, rental income, WACC, NPV and IRR. Source: [IgorLT67/skaiciuokle](https://github.com/IgorLT67/skaiciuokle).
 
-I’m passionate about solving complex business challenges using **data analytics**, and enjoy finding creative, out-of-the-box solutions that drive measurable results.
+## Selected work — Social care & public services
 
-My work combines real-world business strategy with data-driven tools to uncover insights and drive operational improvement.
+**[Vilnius Social Services Centre (Power BI)](https://github.com/IgorLT67/igor-portfolio/tree/main/Vilnius-Social-Services-PowerBI)**  
+Power BI analysis of the centre’s service reports (1 October 2022 – 1 December 2024) from Lithuania’s open data portal, covering service mix, KPIs, client structure and data quality.
 
----
+**[Social-care business model](https://github.com/IgorLT67/igor-portfolio/tree/main/social-care-model)** — *in progress*  
+A Power BI and MySQL model of a Lithuanian provider offering consultancy-based social-care services at home or in public spaces, with dashboards for work performance, sales and income versus COGS, and customers.
 
-## 🚀 Current Focus
+## Projects — Feeze Lab / SASH Link Checker
 
-- Real Estate projects, analytics and process optimization  
-- Social Care service development project
-- Freelancing work on operational and data projects  
+SASH Link Checker is an Android app that checks suspicious links from SMS, email and messengers before you open them. It is one of my projects, developed at Feeze Lab.
 
----
+[sashlinkchecker.com](https://sashlinkchecker.com)
 
-## 🌱 Learning Journey  
+## Tools
 
-I'm currently learning:
+Python · Power BI · Excel · SQL/MySQL · Zoho · Make.com · Airtable
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![AI Automation](https://img.shields.io/badge/AI%20Automation-7A1FA2?style=for-the-badge&logo=openai&logoColor=white)
-![Strategic Planning](https://img.shields.io/badge/Strategic%20Planning-5C2D91?style=for-the-badge)
+## Contact
 
-## 💼 Technical Skills
-
-I’m continuously sharpening my skill set with:
-
-### 📊 Data & BI Tools  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Zoho Analytics](https://img.shields.io/badge/Zoho%20Analytics-FF4F1F?style=for-the-badge&logo=zoho&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-
-### 💻 Programming & Data Science  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Aiven](https://img.shields.io/badge/Aiven-DC382D?style=for-the-badge&logo=aiven&logoColor=white)
-
-### 🧠 AI & Automation  
-![Make.com](https://img.shields.io/badge/Make.com-592EFF?style=for-the-badge&logo=make&logoColor=white)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
-
-### 📅 Project & Task Management  
-![Microsoft Project](https://img.shields.io/badge/Microsoft%20Project-0078D7?style=for-the-badge&logo=microsoft&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
-![Zoho CRM](https://img.shields.io/badge/Zoho%20CRM-ED1C24?style=for-the-badge&logo=zoho&logoColor=white)
-![Zoho Sprints](https://img.shields.io/badge/Zoho%20Sprints-FC3F1D?style=for-the-badge&logo=zoho&logoColor=white)
-
-
----
-
-## 📁 Featured Power BI Projects
-
-Below are some of the analytical models and dashboards I’ve developed — combining real-world business logic with technical data capabilities:
-
-| Project | Description |
-|--------|-------------|
-| [🏙️ Automatizuotas duomenų gavimas iš aruodas.lt](https://github.com/IgorLT67/igor-portfolio/tree/main/aruodas) | Vilniaus m. butų rinkos dalyvių elgesio analizė (Python). |
-| [🏙️ Šalies miestų butų kainų analizė (Ober-Haus duomenys)](https://github.com/IgorLT67/igor-portfolio/tree/main/But%C5%B3%20kainos%20makroekonominiame%20kontekste) | Butų kainų analizė (Power BI & Python). |
-| [📊 Vilniaus m. SPC veiklos analizė](https://github.com/IgorLT67/igor-portfolio/tree/main/Vilnius-Social-Services-PowerBI) | Vilniaus m. socialinių paslaugų centro paslaugų ataskaitos analizė (Power BI). |
-| [🏙️ NT projekto sąnaudų ir pajamų skaičiuoklė su A/B testavimu](https://investnt.vercel.app/) | Skaičiuoja kainą, išskiria PVM, nuomos modeliavimas, IRR, NPV (HTML). |
-| [🏢 AdventureWorks Sales Analysis](https://github.com/IgorLT67/igor-portfolio/tree/main/adventureworks-model) | Sales performance insights, KPIs, and revenue breakdowns using Microsoft’s public dataset (Power BI) . |
-| [✈️ Airport Delays Analysis](https://github.com/IgorLT67/igor-portfolio/tree/main/Airports-and-Airlines-Flight-Delays) | Delay and cancel cause analysis with patterns and measurements (Power BI). |
-| [🍬 Candy Sales Tracker](https://github.com/IgorLT67/igor-portfolio/tree/main/candy-sales-model) | Regional sale performance with reports, market segmentation, and slicer-driven filtering (Power BI). |
-| [👥 Social Care Business Model](https://github.com/IgorLT67/igor-portfolio/tree/main/social-care-model) | End-to-end business development dashboard based on a real social services scenario. In progress — being expanded into a more complex, strategic tool (Power BI). |
----
-
-## 🔗 Let’s Connect
-
-💼 [LinkedIn](https://www.linkedin.com/in/igormakarov-vilnius/)  
-📬 Always open to collaboration, freelance work, or strategic partnerships.
-
----
-
-
+[LinkedIn](https://www.linkedin.com/in/igormakarov-vilnius/)
