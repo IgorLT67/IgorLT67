@@ -27,7 +27,7 @@ A Power BI and MySQL model of a Lithuanian provider offering consultancy-based s
 
 ## Projects — Feeze Lab / SASH Link Checker
 
-SASH Link Checker is an Android app that checks suspicious links from SMS, email and messengers before you open them. It is one of my projects, developed at Feeze Lab.
+SASH Link Checker is an Android app that checks a shop link before you buy and gives a clear risk rating with the reasons behind it. It is one of my projects, developed at Feeze Lab.
 
 [sashlinkchecker.com](https://sashlinkchecker.com)
 
